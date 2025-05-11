@@ -1,7 +1,10 @@
 👋 Hi, I'm Julian Evan Chrisnanto!
 
+<<<<<<< HEAD
 ![Profile Banner](https://via.placeholder.com/1200x200.png)
 
+=======
+>>>>>>> eeb7894b4e934019300e30706e032bb1b3bd50bb
 I'm a **Machine Learning Researcher** and **Physicist** from Cimahi, Indonesia, passionate about bridging physics and artificial intelligence to solve complex scientific problems. With a B.S. in Physics (GPA 3.79/4.0) from Universitas Padjadjaran, I specialize in **Deep Learning**, **Computer Vision**, and **Computational Physics**. Currently, I'm a researcher at **PLABS.ID**, working on cutting-edge ML applications.
 
 🌟 **Explore my portfolio**: [julianvanchris.github.io](https://julianvanchris.github.io)
@@ -68,4 +71,8 @@ I'm a **Machine Learning Researcher** and **Physicist** from Cimahi, Indonesia, 
 
 ---
 
+<<<<<<< HEAD
 ⭐️ If you find my work inspiring, give this repo a star! Let's collaborate on innovative ML and physics projects!
+=======
+⭐️ If you find my work inspiring, give this repo a star! Let's collaborate on innovative ML and physics projects!
+>>>>>>> eeb7894b4e934019300e30706e032bb1b3bd50bb
